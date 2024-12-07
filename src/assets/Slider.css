@@ -1,0 +1,49 @@
+.heigth-600 {
+  height: 600px;
+}
+
+.navbar-bg {
+  background-color: black;
+  border-bottom: 3px solid white;
+}
+
+.marg {
+  margin-right: 20px;
+}
+
+body {
+  background-color: black;
+}
+
+.text-muted {
+  color: white !important;
+}
+
+.custom-button {
+  transition: background-color 0.3s ease, color 0.3s ease;
+  color: white;
+  cursor: pointer;
+}
+
+.custom-button:hover,
+.btn-product:hover {
+  background-color: #555 !important;
+  color: #fff !important;
+  border-radius: 4px 0 4px 0 !important;
+}
+
+
+.btn-product {
+  transition: background-color 0.3s ease, color 0.3s ease;
+  color: rgb(185, 185, 185);
+  cursor: pointer;
+}
+
+.navbar-nav .nav-link.active {
+  color: inherit !important;
+  /* إعادة اللون الافتراضي */
+  background-color: transparent !important;
+  /* إلغاء الخلفية */
+  font-weight: normal !important;
+  /* إلغاء التأكيد على الخط */
+}
