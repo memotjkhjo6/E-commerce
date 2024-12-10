@@ -1,7 +1,6 @@
 {
   "name": "portfoilo-by-react.js",
   "version": "0.1.0",
-  "homepage": "https://memotjkhjo6.github.io/E-commerce",
   "private": true,
   "dependencies": {
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.15",
